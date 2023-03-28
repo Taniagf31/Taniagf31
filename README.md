@@ -2,9 +2,9 @@
 
 ![2](https://user-images.githubusercontent.com/116085996/228367621-d5b8eda8-1cbd-40f9-b804-bf3e82b82d69.png)
 
-**Taniagf31/Taniagf31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Taniagf31/Taniagf31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<!--Here are some ideas to get you started:
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +14,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
