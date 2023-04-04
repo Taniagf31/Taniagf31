@@ -5,7 +5,7 @@
 
 - ✨ I'm looking for a job 💻
 - ✨ I'm currently learning React 📝
-- 👯 I'm looking to collaborate in technology companies 👩‍💼
-- 📫 How to reach me: taniafe98@gmail.com 📧
-- 😄 Pronouns: Tania Fe 🌸
+- ✨ I'm looking to collaborate in technology companies 👩‍💼
+- ✨ How to reach me: taniafe98@gmail.com 📧
+- ✨ Pronouns: Tania Fe 🌸
 
