@@ -3,7 +3,7 @@
 
 <!-- **Taniagf31/Taniagf31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 💖 I'm looking for a job 💻 
+- 💖 I'm looking for a job 👩‍💻
 
 - 💖 I'm currently learning React 📝
 
