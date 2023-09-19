@@ -11,5 +11,5 @@
 
 - 💖 How to reach me: taniafe98@gmail.com 📧
 
-- 💖 Pronouns: Tania Fe 🌸
+- 💖 Pronouns: Tania Fe 💕
 
